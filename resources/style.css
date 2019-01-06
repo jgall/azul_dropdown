@@ -1,0 +1,10 @@
+.__dropdown_node {
+    border: 2px solid black;
+    height: 50px;
+    padding: 0px 0px 0px 0px;
+    margin: 5px 5px 5px 5px;
+}
+
+.__dropdown_parent {
+    border: 2px solid black;
+}
