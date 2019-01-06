@@ -1,0 +1,8 @@
+[package]
+name = "azul_dropdown"
+version = "0.1.0"
+authors = ["John Gallagher <john.willis.gallagher@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+azul = { git = "https://github.com/maps4print/azul" }
